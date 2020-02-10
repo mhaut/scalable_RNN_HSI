@@ -1,9 +1,11 @@
 # Scalable Recurrent Neural Network for Hyperspectral Image Classification
-The Code for "Scalable Recurrent Neural Network for Hyperspectral Image Classification". []
+The Code for "Scalable Recurrent Neural Network for Hyperspectral Image Classification". [https://link.springer.com/article/10.1007/s11227-020-03187-0]
 ```
 M. E. Paoletti, J. M. Haut, J. Plaza and A. Plaza.
 Scalable Recurrent Neural Network for Hyperspectral Image Classification.
 Journal of Supercomputing.
+DOI: 10.1007/s11227-020-03187-0
+Accepted for publication, 2019.
 ```
 
 ![ROhsi](https://github.com/mhaut/scalable_RNN_HSI/blob/master/images/RNN_for_HSI.png)
