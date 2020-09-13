@@ -9,7 +9,6 @@ from torch.autograd import Variable
 import torch.nn as nn
 import torch.optim as optim
 import aux
-import hiperlib as hl
 
 
 class Model(nn.Module):
